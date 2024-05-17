@@ -1,3 +1,16 @@
+# QR Code Generator
+
+This project allows you to generate a QR code from a given link and save it as a PNG image. It uses the `PyQRCode` and `pypng` modules.
+
+## Installation
+
+To get started, you need to install the required Python modules. You can do this using `pip`:
+
+```bash
+pip install PyQRCode
+pip install pypng
+```
+
 # 💫 About Me:
 🚀 About Me:
 Hello! I'm Mustafa Pinjari, a dynamic Frontend Developer with a passion for crafting exceptional user experiences. With over 4 years of expertise in the tech industry, I bring a wealth of knowledge and skills to the table.
